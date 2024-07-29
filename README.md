@@ -43,7 +43,7 @@
    <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
-## 📫 How to reach me:
+<h2>📫How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronierlima/)]([https://www.linkedin.com/in/ronierlima/](https://www.linkedin.com/in/subhodeep-modak-404a67284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
