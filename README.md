@@ -43,7 +43,7 @@
    <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://www.figma.com/"><img alt="figma" src="https://img.shields.io/badge/Figma-2C2D72?style=for-the-badge&logo=figma&logoColor=white"></a>
   </a>
 
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
