@@ -162,9 +162,6 @@
 
 ### 🏆 Certifications & Achievements
 
-- 🥇 **AWS Certified Machine Learning - Specialty**
-- 🥈 **Google Cloud Professional ML Engineer**
-- 🥉 **TensorFlow Developer Certificate**
 - 📜 **Deep Learning Specialization - Coursera**
 
 ---
@@ -188,11 +185,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhodeepmodak&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2" width="100%"/>
 
 </div>
 
@@ -224,7 +216,7 @@ I'm always interested in collaborating on exciting ML projects, research opportu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhodeep-modak/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhodeep.modak@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssmodak2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhodeepmodak)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/subhodeepmodak)
 
