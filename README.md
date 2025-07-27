@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Your%20Project%20Name&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subhodeep%20Modak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+awesome+project!;Built+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;Always+learning+new+things;Open+source+enthusiast" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/yourproject?style=for-the-badge&logo=github&color=red&labelColor=black)
 
 <!-- Live Visitor Counter -->
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/subhodeepmodak/count.svg)
 
 <br/>
 
@@ -41,7 +41,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhodeepmodak&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
