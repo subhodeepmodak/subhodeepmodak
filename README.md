@@ -316,7 +316,7 @@ Give a ⭐️ if this project helped you!
 <!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-### 🚀 Made with ❤️ by [Your Name](https://github.com/yourusername)
+### 🚀 Made with ❤️ by [Subhodeep Modak](https://github.com/subhodeepmodak)
 
 **⭐ Don't forget to star this repository if you found it helpful!**
 
@@ -326,27 +326,4 @@ Give a ⭐️ if this project helped you!
 </div>
 ```
 
-## 🎨 **Live Elements Included:**
-
-1. **🌊 Animated Banner** - Waving animation with gradient colors
-2. **⌨️ Typing Animation** - Dynamic text that types and deletes
-3. **📊 Live GitHub Stats** - Real-time repository statistics
-4. **📈 Activity Graph** - Visual representation of your GitHub activity
-5. **🏆 Trophy Display** - Achievement showcase
-6. **👀 Visitor Counter** - Live visitor tracking
-7. **📊 Wakatime Stats** - Coding time statistics
-8. **🔥 Streak Counter** - Contribution streak display
-9. **📱 Responsive Badges** - Dynamic status indicators
-10. **🎯 Interactive Elements** - Hover effects and animations
-
-## 🛠️ **Customization Instructions:**
-
-1. **Replace `yourusername`** with your actual GitHub username
-2. **Update `yourproject`** with your repository name
-3. **Customize colors** in the banner URL parameters
-4. **Add your social links** and contact information
-5. **Update the typing animation text** to match your project
-6. **Replace placeholder URLs** with your actual demo/documentation links
-
-This template will make your GitHub repository stand out with professional animations and live data that updates automatically!
 
