@@ -11,7 +11,6 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhodeep-modak)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/subhodeep_modak)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssmodak2004@gmail.com)
 [![Location](https://img.shields.io/badge/Mumbai%2C%20India-1E293B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
