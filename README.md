@@ -189,7 +189,6 @@ I am a **Data & Business Analyst** with a strong foundation in **Software Engine
 I am actively open to discussions regarding **Data Analyst, Business Analyst, Credit Risk / Quantitative Analyst, Analytics Engineer, and SDE** opportunities.
 
 * 💼 **LinkedIn**: [linkedin.com/in/subhodeep-modak](https://linkedin.com/in/subhodeep-modak)
-* 🐦 **X / Twitter**: [@subhodeep_modak](https://x.com/subhodeep_modak)
 * 📧 **Email**: [ssmodak2004@gmail.com](mailto:ssmodak2004@gmail.com)
 * 📍 **Location**: Mumbai, Maharashtra, India
 
