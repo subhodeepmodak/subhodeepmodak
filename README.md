@@ -20,7 +20,7 @@
 
 ### 📌 Executive Summary
 
-I am a **Data & Business Analyst** with a strong foundation in **Software Engineering (SDE)** based in Mumbai, India. My core focus lies at the intersection of **quantitative analytics, decision support systems, and production software pipelines**. 
+I am a **Data / Business Analyst** with a strong foundation in **Software Engineering (SDE)** based in Mumbai, India. My core focus lies at the intersection of **quantitative analytics, decision support systems, and production software pipelines**. 
 
 * 📊 **Analyst Focus**: Expertise in credit risk modeling, business decision support systems (DSS), KPI tracking, and financial document intelligence.
 * 🛠️ **Engineering Superpower**: Unlike traditional analysts, I build end-to-end solutions—from automated ETL pipelines and machine learning models to interactive Streamlit dashboards and REST APIs.
